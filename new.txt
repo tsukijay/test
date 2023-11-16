@@ -8,3 +8,5 @@ First set of code
 
 # Pushing to main branch
 Deleted feature branch
+
+## Pushing with -d to delete remote branch, observing the results.
